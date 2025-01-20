@@ -1,5 +1,11 @@
 # @coursebuilder/core
 
+## 1.0.1
+
+### Patch Changes
+
+- [#378](https://github.com/badass-courses/course-builder/pull/378) [`c6eda5e`](https://github.com/badass-courses/course-builder/commit/c6eda5e2fd9159146c8bb35620dee96e0f45395d) Thanks [@vojtaholik](https://github.com/vojtaholik)! - pass subscriber name
+
 ## 1.0.0
 
 ### Major Changes

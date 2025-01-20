@@ -1,5 +1,14 @@
 # @coursebuilder/ui
 
+## 2.0.2
+
+### Patch Changes
+
+- [#381](https://github.com/badass-courses/course-builder/pull/381) [`24e1eae`](https://github.com/badass-courses/course-builder/commit/24e1eae80e189bb58644cb8e94b2143293ad5142) Thanks [@vojtaholik](https://github.com/vojtaholik)! - export sheet component
+
+- Updated dependencies [[`c6eda5e`](https://github.com/badass-courses/course-builder/commit/c6eda5e2fd9159146c8bb35620dee96e0f45395d)]:
+  - @coursebuilder/core@1.0.1
+
 ## 2.0.1
 
 ### Patch Changes
